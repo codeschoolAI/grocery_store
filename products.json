@@ -1,0 +1,89 @@
+{
+    "name": "Grocery Store",
+    "products": [
+        {
+        "name": "Apple",
+        "type": "Fruit",
+        "price": 0.5,
+        "quantity": 10
+        },
+        {
+        "name": "Banana",
+        "type": "Fruit",
+        "price": 0.25,
+        "quantity": 20
+        },
+        {
+        "name": "Orange",
+        "type": "Fruit",
+        "price": 0.75,
+        "quantity": 15
+        },
+        {
+        "name": "Grapes",
+        "type": "Fruit",
+        "price": 1.5,
+        "quantity": 5
+        },
+        {
+        "name": "Watermelon",
+        "type": "Fruit",
+        "price": 5,
+        "quantity": 2
+        },
+        {
+        "name": "Pineapple",
+        "type": "Fruit",
+        "price": 2,
+        "quantity": 3
+        },
+        {
+        "name": "Mango",
+        "type": "Fruit",
+        "price": 1,
+        "quantity": 10
+        },
+        {
+        "name": "Kiwi",
+        "type": "Fruit",
+        "price": 0.75,
+        "quantity": 8
+        },
+        {
+        "name": "Pear",
+        "type": "Fruit",
+        "price": 0.5,
+        "quantity": 12
+        },
+        {
+        "name": "Strawberry",
+        "type": "Fruit",
+        "price": 2,
+        "quantity": 4
+        },
+        {
+        "name": "Blueberry",
+        "type": "Fruit",
+        "price": 3,
+        "quantity": 3
+        },
+        {
+        "name": "Raspberry",
+        "type": "Fruit",
+        "price": 2.5,
+        "quantity": 5
+        },
+        {
+        "name": "Blackberry",
+        "type": "Fruit",
+        "price": 2,
+        "quantity": 6
+        },
+        {
+        "name": "Tomato",
+        "type": "Vegetable",
+        "price": 1,
+        "quantity": 20
+        }
+    ]
+}

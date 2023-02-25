@@ -1,0 +1,52 @@
+Name,Type,Price (USD),Quantity
+Apple,Fruit,0.5,10
+Banana,Fruit,0.25,20
+Orange,Fruit,0.75,15
+Orange,Fruit,0.75,15
+Grapes,Fruit,1.5,5
+Watermelon,Fruit,5,2
+Pineapple,Fruit,2,3
+Mango,Fruit,1,10
+Mango,Fruit,,3.5
+Kiwi,Fruit,0.75,8
+Pear,Fruit,0.5,12
+Strawberry,Fruit,2,4
+Blueberry,Fruit,3,3
+Raspberry,Fruit,2.5,5
+Blackberry,Fruit,2,6
+Tomato,Vegetable,1,20
+Cucumber,Vegetable,0.75,15
+Carrot,Vegetable,0.5,25
+Carrot,Vegetable,0.5,25
+Onion,Vegetable,0.25,30
+Garlic,Vegetable,0.1,50
+Potato,Vegetable,0.5,20
+Sweet Potato,Vegetable,1,10
+Zucchini,Vegetable,0.75,15
+Bell Pepper,Vegetable,0.75,12
+Broccoli,Vegetable,1.5,8
+Cauliflower,Vegetable,1.75,6
+Spinach,Vegetable,2,4
+Cheese,Fruit,5,5
+paper,Stationary,0.1,100
+pencil,Stationary,0.1,100
+pen,Stationary,0.1,100
+Lettuce,Vegetable,1.25,10
+Kale,Vegetable,1.5,8
+Nail Clippers,Household,5,2
+Olive Oil,Oil,10,3
+Canola Oil,Oil,8,4
+Coconut Oil,Oil,12,2
+Avocado Oil,Oil,15,1
+Soy Milk,Dairy,3,5
+Almond Milk,Dairy,4,4
+Yogurt,Dairy,2,10
+Cheese,Dairy,5,5
+Cheese,Dairy,5,5
+Butter,Dairy,2.5,8
+Cream Cheese,Dairy,3,6
+Sour Cream,Dairy,1.5,12
+Whipping Cream,Dairy,4,4
+Half and Half,Dairy,2,10
+Cottage Cheese,Dairy,3,6
+Keybord,Electronics,100,1

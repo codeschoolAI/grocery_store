@@ -36,11 +36,15 @@ Avocado Oil,Oil,15,1
 Soy Milk,Dairy,3,5
 Almond Milk,Dairy,4,4
 Yogurt,Dairy,2,10
+Milk,Dairy,,8
 Cheese,Dairy,5,5
 Butter,Dairy,2.5,8
+Butter,Dairy,,8
 Ice Cream,,3,6
 Cream Cheese,Dairy,3,6
 Sour Cream,Dairy,1.5,12
 Whipping Cream,Dairy,4,4
 Half and Half,Dairy,2,10
 Cottage Cheese,Dairy,3,6
+Eggs,,1.5,12
+
